@@ -356,6 +356,10 @@ section {
   margin-bottom: 3rem;
 }
 
+.features {
+  background-color: #f9f5f0;
+}
+
 .features .box-container .box:last-child {
   margin-bottom: 0;
 }
