@@ -79,7 +79,7 @@ section {
   right: 0;
   height: 100%;
   width: 100%;
-  background: #f9f5f0;
+  background: #fdfbf6;
   z-index: -1;
   -webkit-clip-path: polygon(0 85%, 100% 75%, 100% 100%, 0% 100%);
   clip-path: polygon(0 85%, 100% 75%, 100% 100%, 0% 100%);
@@ -136,7 +136,7 @@ section {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  background: #f9f5f0;
+  background: #fdfbf6;
   -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   padding: 2rem 9%;
@@ -203,7 +203,7 @@ section {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   gap: 2rem;
-  background: #82eefd;
+  background: #9bf1fd;
 }
 
 .home .image {
@@ -236,7 +236,7 @@ section {
 }
 
 .services {
-  background: #82eefd;
+  background: #9bf1fd;
 }
 
 .services .box-container {
@@ -248,7 +248,7 @@ section {
 }
 
 .services .box-container .box {
-  background: #f9f5f0;
+  background: #fdfbf6;
   padding: 3rem 2rem;
   text-align: center;
   border-radius: 0.5rem;
@@ -280,7 +280,7 @@ section {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   gap: 2rem;
-  background-color: #f9f5f0;
+  background-color: #fdfbf6;
 }
 
 .about .image {
@@ -357,7 +357,7 @@ section {
 }
 
 .features {
-  background-color: #f9f5f0;
+  background-color: #fdfbf6;
 }
 
 .features .box-container .box:last-child {
@@ -399,7 +399,7 @@ section {
 }
 
 .pricing {
-  background: #f6e4d5;
+  background: #fdfbf6;
   text-align: center;
 }
 
@@ -551,7 +551,7 @@ section {
 }
 
 .faq {
-  background: #cae8e3;
+  background: #daffef;
 }
 
 .faq .accordion-container {
@@ -609,7 +609,6 @@ section {
   -webkit-animation: fadeUp 0.2s linear backwards;
   animation: fadeUp 0.2s linear backwards;
 }
-
 .newsletter .content {
   text-align: center;
   max-width: 60rem;
@@ -657,7 +656,7 @@ section {
 }
 
 .footer {
-  background: #f6e4d5;
+  background: #fdfbf6;
 }
 
 .footer .box-container {
@@ -671,6 +670,7 @@ section {
 .footer .box-container .box h3 {
   font-size: 2.2rem;
   padding: 1rem 0;
+  color: #30d5c8;
 }
 
 .footer .box-container .box a {
