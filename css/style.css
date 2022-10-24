@@ -260,7 +260,7 @@ section {
 
 .services .box-container .box h3 {
   font-size: 2.2rem;
-  padding: 1.5rem 0;
+ 
 }
 
 .services .box-container .box p {
@@ -695,7 +695,9 @@ section {
   .header {
     padding: 2rem;
   }
-  
+  section {
+    padding: 3rem 2rem;
+  }
   .home .content h3 {
     font-size: 4rem;
   }
