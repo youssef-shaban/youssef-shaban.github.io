@@ -664,6 +664,7 @@ section {
   -ms-grid-columns: (minmax(25rem, 1fr)) [auto-fit];
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   gap: 1.5rem;
+  color: #daffef;
 }
 
 .footer .box-container .box h3 {
@@ -694,9 +695,7 @@ section {
   .header {
     padding: 2rem;
   }
-  section {
-    padding: 3rem 2rem;
-  }
+  
   .home .content h3 {
     font-size: 4rem;
   }
