@@ -242,7 +242,7 @@ section {
 .services .box-container {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (minmax(32rem, 1fr)) [auto-fit];
+  -ms-grid-columns: (minmax(40rem, 1fr)) [auto-fit];
   grid-template-columns: repeat(auto-fit, minmax(32rem, 1fr));
   gap: 1.5rem;
 }
@@ -250,12 +250,13 @@ section {
 .services .box-container .box {
   background: #fdfbf6;
   text-align: center;
-  border-radius: 0.5rem;
+  border-radius: 1.5rem;
 }
 
 .services .box-container .box img {
   height: 8rem;
-  margin-bottom: 0.7rem;
+  margin-bottom: 0.5rem;
+  padding-top: 0.5rem;
 }
 
 .services .box-container .box h3 {
