@@ -243,7 +243,6 @@ section {
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (minmax(40rem, 1fr)) [auto-fit];
-  grid-template-columns: repeat(auto-fit, minmax(55rem, 1fr));
   gap: 1.5rem;
 }
 
@@ -656,7 +655,7 @@ section {
 }
 
 .footer {
-  background:#daffef;
+  background: #daffef;
 }
 
 .footer .box-container {
@@ -692,6 +691,10 @@ section {
   font-size: 2rem;
 }
 
+.tech_video {
+  width: 40rem;
+}
+
 @media (max-width: 1200px) {
   .header {
     padding: 2rem;
@@ -712,7 +715,6 @@ section {
 
 @media (max-width: 768px) {
   #menu-btn {
-    display: inline-block;
     -webkit-transition: 0.2s linear;
     transition: 0.2s linear;
   }
